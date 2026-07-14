@@ -1,0 +1,7 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "base_url": "https://seven-bats-hang.loca.lt/v1",
+  "api_key": "abc-123",
+  "google_api_key": "AIzaSyBewI9iFwyp-Xz_Qd837oaU0cQgHYUl_10"
+}

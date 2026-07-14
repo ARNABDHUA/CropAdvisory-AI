@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langgraph
+langchain-openai
+google-genai
+httpx
+python-multipart
+edge-tts
