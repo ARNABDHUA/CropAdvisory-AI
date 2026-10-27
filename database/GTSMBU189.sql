@@ -1,0 +1,1 @@
+CREATE TABLE crops (id INT PRIMARY KEY, name VARCHAR(50));
